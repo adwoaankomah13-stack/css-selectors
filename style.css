@@ -1,0 +1,27 @@
+.odd-num {
+    background-color: #ffcccc;
+    font-family: "Verdana", "DejaVu Sans", sans-serrif;
+}
+
+#even-num {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.first-odd{
+    background-color: #ffcccc;
+    font-size: 24px;
+}
+
+#first-even{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-num {
+    background-color: #ffcccc;
+    font-family: "Verdana", "DejaVu Sans", sans-serrif;
+}
+ 
+
